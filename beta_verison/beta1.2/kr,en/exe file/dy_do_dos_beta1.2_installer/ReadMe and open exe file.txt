@@ -1,0 +1,1 @@
+exe file location : DeskTop\dy_do_dos_beta1.2_installer
